@@ -5,6 +5,8 @@
 - Headlight
 - Block Heater
 - Glow Plug wiring
+- Oil Change
+- Coolant Flush
 - Engine to Firewall Ground Cable
 - Battery Cable
 - Fuel Gauge
